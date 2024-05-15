@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Trabalho na área de tecnologia há mais de 20 anos e sou apaixonado pela linguagem Python!<br><br>Utilizo a linguagem desde o início da minha carreira para:<br><br>- análise de dados<br>- automação de tarefas<br>- aprendizado de máquina<br>- engenharia de dados</p>
+<p align="left">Trabalho na área de tecnologia há mais de 20 anos e sou apaixonado pela linguagem Python!<br><br>Utilizo a linguagem desde o início da minha carreira para:<br><br>- Inteligência artificial </p>br>- Análise de Dados<br>- Automação de Processos<br>- Engenharia de Dados</p>
 
 ###
 
